@@ -1,0 +1,30 @@
+# Compiled Source
+*.pyc
+
+# Editor aritfacts
+*~
+*-
+*#
+*wpr
+*wpu
+
+# Documentation Artificts
+*.doctree
+*.pickle
+
+# Log Files
+*.log
+
+# Database files
+*.sql
+*.db
+*.sqlite
+
+# Secret Stuff
+secrets.*
+
+# OS generated
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
