@@ -39,8 +39,8 @@ Just add:
 import sendgrid
 from djangosendgrid import send_mail_with_headers as send_mail
 
-Right you can just copy the two files into your project or app.  At some point 
-I'll package these up so they can be installed from PyPi.  
+You can just copy the two files into your project or app.  At some point 
+I'll package these up so they can be installed from PyPi.
 
 Contributors
 ------------
