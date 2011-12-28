@@ -54,3 +54,8 @@ How to Contribute
 3. Submit a Pull request on GitHub.
 4. ???
 5. Profit (or something)
+
+Bugs
+----
+If you find a bug, please report at:
+https://github.com/DirectEmployers/sendgrid-smtp-api/issues
