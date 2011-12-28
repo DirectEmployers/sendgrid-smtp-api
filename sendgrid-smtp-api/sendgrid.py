@@ -9,7 +9,7 @@ Authors:
 
 - SendGrid.com -- http://sendgrid.com
 - Mike Seidle -- http://directemployersfoundation.org
-  mike@directemployersfoundation.org
+                 mike@directemployersfoundation.org
   
 """
 
