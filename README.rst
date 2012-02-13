@@ -44,8 +44,8 @@ I'll package these up so they can be installed from PyPi.
 
 Contributors
 ------------
-SendGrid -- http://sendgrid.com - initial example Python API implementation
-Mike Seidle -- mike@directemployersfoundation.org - This version
+-  SendGrid -- http://sendgrid.com - initial example Python API implementation
+-  Mike Seidle -- mike@directemployersfoundation.org - This version
 
 How to Contribute
 -----------------
