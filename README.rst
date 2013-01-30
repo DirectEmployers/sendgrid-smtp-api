@@ -7,7 +7,7 @@ allows the SendGrid SMTP API to be used.
 
 Copyright and License
 ---------------------
-Copyright (C) 2011, DirectEmployers Foundation.  This project is provided under
+Copyright (C) 2011-2013, DirectEmployers Foundation.  This project is provided under
 a triple license that allows you to select the license that is best for your 
 needs. You may choose from:
 
@@ -15,8 +15,7 @@ needs. You may choose from:
 - The GNU GPL v3.0
 - The MIT License
 
-You can read the license text at:
-http://directemployersfoundation.org/tri-license
+You can read the licenses in the licenses directory.
 
 How SendGrid's SMTP API Works
 -----------------------------
